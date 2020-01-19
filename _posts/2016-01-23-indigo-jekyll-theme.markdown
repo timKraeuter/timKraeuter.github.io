@@ -2,34 +2,32 @@
 title: ":muscle: autoD: calculate your gymnastics difficulty"
 layout: post
 date: 2020-01-19 15:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+tag: app
+image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/playstore_icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is an app to calculate your gymnastics difficulty for all the gymnasts out there."
 category: project
 author: timKraeuter
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/screenshot.jpg)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+This is an app to calculate your gymnastics difficulty. You select the elements of your exercise and the app automatically calculates the difficulty score of your exercise.
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+What can it do?
+
+- Calculate your difficulty by providing all elements from the code of points.
+- Saves your exercises in the app automatically.
+- Not cost you anything or annoy you with advertisements.
+- Export your exercise to beautiful pdf's as seen [here](https://drive.google.com/open?id=1vzjhyJnCMgtyz4uOayX06g2zH5qw2dRP).
+- Import the created pdf's back into the app, so you can share and collaborate with your fellow gymnast friend.
+---
+
+Check it out if you are curious or a gymnast.
+<a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
