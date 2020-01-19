@@ -22,5 +22,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://play.google.com/store/apps/details?id=de.tk.autoD">autoD</a></li>
+	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD</a></li>
 </ul>
