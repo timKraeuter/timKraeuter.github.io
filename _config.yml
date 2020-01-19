@@ -1,6 +1,6 @@
 # main text of home
 name: Tim Kräuter
-bio: Software Engineer
+bio: I'm a software engineer in Hannover, Germany.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/cv.pdf
 
 url: https://timkraeuter.github.io/
 
@@ -54,7 +54,7 @@ email: tim.kraeuter.developer@gmail.com
 authors:
     timKraeuter:
         name: Tim Kräuter
-        bio: Software Developer
+        bio: I'm a software engineer in Hannover, Germany.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
@@ -79,7 +79,7 @@ blog: false
 read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: faöse
+show-tags: true
 
 # related posts inside a post?
 related: false
