@@ -2,7 +2,9 @@
 title: ":muscle: autoD: calculate your gymnastics difficulty"
 layout: post
 date: 2020-01-19 15:10
-tag: app
+tag:
+- app
+- gymnast
 image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/playstore_icon.png
 headerImage: true
 projects: true
@@ -12,6 +14,8 @@ category: project
 author: timKraeuter
 externalLink: false
 ---
+
+Example of the app - autoD - calculating the difficulty of a floor exercise.
 
 ![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/screenshot.jpg)
 
@@ -25,9 +29,13 @@ What can it do?
 - Calculate your difficulty by providing all elements from the code of points.
 - Saves your exercises in the app automatically.
 - Not cost you anything or annoy you with advertisements.
-- Export your exercise to beautiful pdf's as seen [here](https://drive.google.com/open?id=1vzjhyJnCMgtyz4uOayX06g2zH5qw2dRP).
-- Import the created pdf's back into the app, so you can share and collaborate with your fellow gymnast friend.
+- Export your exercise to a beautiful pdf as seen [here](https://drive.google.com/open?id=1vzjhyJnCMgtyz4uOayX06g2zH5qw2dRP).
+- Import the created pdf files back into the app, so you can share and collaborate with your fellow gymnast friend.
+
 ---
 
 Check it out if you are curious or a gymnast.
+
+<div class="breaker"></div>
+
 <a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
