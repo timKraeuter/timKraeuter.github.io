@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Software Engineer in Hannover Germany.</p>
+<p>I'm a software engineer in Hannover, Germany.</p>
 
 <h2>Skills</h2>
 
