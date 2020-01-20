@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/cv.pdf
+resume-url: assets/cv_EN.pdf
 
 url: https://timkraeuter.github.io/
 
