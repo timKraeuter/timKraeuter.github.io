@@ -15,7 +15,7 @@ author: timKraeuter
 externalLink: false
 ---
 
-Since no gymnast from my club, including me, knew how to calculate his difficulty score, I made an app that does the work for you.
+Since no gymnast from my club, including me, knew how to calculate his difficulty score, I made an app that does it for you.
 
 Example of the app - autoD - calculating the difficulty of a floor exercise.
 
