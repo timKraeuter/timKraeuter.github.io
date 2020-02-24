@@ -20,22 +20,23 @@ externalLink: false
 Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung ausgewählt werden. Zusätzlich können, die durch die Übung erfüllten Anforderungen, selektiert werden.
 ## Element hinzufügen
 Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hinzugefügt werden.
-
-![Hinzufügen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif)
-
-Ein Abgang kann über den Button "Abgang auswählen" genau wie ein Element hinzugefügt werden.
+<p align="center">
+    <img alt="Hinzufügen von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif"><img/>
+</p>
+Ein Abgang kann über den Button "Abgang auswählen" hinzugefügt werden.
 
 ## Element löschen
 Elemente können durch Swipe nach Links und einem Klick auf das auftauchende Lösch-Icon entfernt werden.
-
-![Löschen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif)
-
+<p align="center">
+    <img alt="Löschen von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif"><img/>
+</p>
 Ein Abgang kann wie ein Element entfernt werden.
 
 ## Elemente umsortieren
 Elemente können per Drag & Drop umsortiert werden.
-
-![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif)
+<p align="center">
+    <img alt="Drag & Drop von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif"><img/>
+</p>
 
 # Export/Import von Übungen
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
