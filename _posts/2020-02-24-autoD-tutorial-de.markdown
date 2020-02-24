@@ -19,10 +19,16 @@ externalLink: false
 # Übung erstellen
 Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung ausgewählt werden. Zusätzlich können, die durch die Übung erfüllten Anforderungen, selektiert werden.
 ## Element hinzufügen
+Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hinzugefügt werden.
+
 
 ## Element löschen
+Elemente können durch Swipe nach Links und einem Klick auf das auftauchende Lösch-Icon entfernt werden.
+
+![Löschen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif)
 
 ## Elemente umsortieren
+Elemente können per Drag & Drop umsortiert werden.
 
 ![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif)
 
