@@ -1,7 +1,7 @@
 ---
 title: ":muscle: autoD: Kurzeinführung"
 layout: post
-date: 2020-01-19 15:10
+date: 2020-02-24 19:33
 tag:
 - app
 - gymnastics
@@ -20,29 +20,34 @@ externalLink: false
 Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung ausgewählt werden. Zusätzlich können, die durch die Übung erfüllten Anforderungen, selektiert werden.
 ## Element hinzufügen
 Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hinzugefügt werden.
-
-![Hinzufügen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif)
-
-Ein Abgang kann über den Button "Abgang auswählen" genau wie ein Element hinzugefügt werden.
+<p align="center">
+    <img alt="Hinzufügen von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif"><img/>
+</p>
+Ein Abgang kann über den Button "Abgang auswählen" hinzugefügt werden.
 
 ## Element löschen
 Elemente können durch Swipe nach Links und einem Klick auf das auftauchende Lösch-Icon entfernt werden.
-
-![Löschen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif)
-
+<p align="center">
+    <img alt="Löschen von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif"><img/>
+</p>
 Ein Abgang kann wie ein Element entfernt werden.
 
 ## Elemente umsortieren
 Elemente können per Drag & Drop umsortiert werden.
-
-![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif)
+<p align="center">
+    <img alt="Drag & Drop von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif"><img/>
+</p>
 
 # Export/Import von Übungen
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
 
 ## Export
-
+TODO
 ## Import
+Exportierte Übungen können auf andere Geräte übertragen und dort in die App importiert werden, um bspw. Änderungen vorzunehmen.
+<p align="center">
+    <img alt="Drag & Drop von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/import_de.gif"><img/>
+</p>
 
 <div class="breaker"></div>
 
