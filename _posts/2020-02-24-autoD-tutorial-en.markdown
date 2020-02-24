@@ -20,12 +20,14 @@ externalLink: false
 To calculate the difficulty of an exercise, all elements must be added. Also, the fulfilled requirements can be selected.
 ## Adding elements
 Elements can be added by clicking the plus icon and selecting the element.
+
 ![Element addition](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/add_en.gif)
 
 A dismount can be added using the "Select dismount" button..
 
 ## Deleting elements
 Elements can be removed by swiping to the left and clicking on the delete icon that appears.
+
 ![Element deletion](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/delete_en.gif)
 
 A dismount can be removed like an element.
