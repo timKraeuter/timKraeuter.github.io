@@ -42,8 +42,12 @@ Elemente können per Drag & Drop umsortiert werden.
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
 
 ## Export
-
+TODO
 ## Import
+Exportierte Übungen können auf andere Geräte übertragen und dort in die App importiert werden, um bspw. Änderungen vorzunehmen.
+<p align="center">
+    <img alt="Drag & Drop von Elementen" src="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/import_de.gif"><img/>
+</p>
 
 <div class="breaker"></div>
 
