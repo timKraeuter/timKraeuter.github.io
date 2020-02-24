@@ -17,7 +17,7 @@ externalLink: false
 ---
 
 # Übung erstellen
-Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung ausgewählt werden. Zusätzlich können, die durch die Übung erfüllten Anforderungen, selektiert werden.
+Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung ausgewählt werden. Zusätzlich können die durch die Übung erfüllten Anforderungen selektiert werden.
 ## Element hinzufügen
 Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hinzugefügt werden.
 
