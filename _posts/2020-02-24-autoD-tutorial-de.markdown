@@ -35,7 +35,7 @@ Ein Abgang kann wie ein Element entfernt werden.
 ## Elemente umsortieren
 Elemente können per Drag & Drop umsortiert werden.
 
-![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/switch_de.gif)
+![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/sort_de.gif)
 
 # Export/Import von Übungen
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
