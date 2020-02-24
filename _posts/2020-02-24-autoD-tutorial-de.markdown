@@ -11,7 +11,7 @@ headerImage: true
 projects: false
 hidden: true # don't count this post in blog pagination
 description: "autoD: Kurzeinführung"
-category: project
+category: blog
 author: timKraeuter
 externalLink: false
 ---
@@ -23,18 +23,26 @@ Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hi
 
 ![Hinzufügen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif)
 
+Ein Abgang kann über den Button "Abgang auswählen" genau wie ein Element hinzugefügt werden.
 
 ## Element löschen
 Elemente können durch Swipe nach Links und einem Klick auf das auftauchende Lösch-Icon entfernt werden.
 
 ![Löschen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/delete_de.gif)
 
+Ein Abgang kann wie ein Element entfernt werden.
+
 ## Elemente umsortieren
 Elemente können per Drag & Drop umsortiert werden.
 
 ![Drag & Drop von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/switch_de.gif)
 
-## Anforderungen auswählen
+# Export/Import von Übungen
+Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
+
+## Export
+
+## Import
 
 <div class="breaker"></div>
 
