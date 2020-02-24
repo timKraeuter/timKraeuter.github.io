@@ -1,7 +1,7 @@
 ---
 title: ":muscle: autoD: Kurzeinführung"
 layout: post
-date: 2020-01-19 15:10
+date: 2020-02-24 19:33
 tag:
 - app
 - gymnastics
