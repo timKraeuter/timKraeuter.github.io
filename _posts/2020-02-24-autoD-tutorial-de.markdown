@@ -21,6 +21,8 @@ Um den Ausgangswert einer Übung zu berechnen, müssen alle Elemente der Übung 
 ## Element hinzufügen
 Elemente können durch das Klicken auf das Plus-Icon und Auswahl des Elements hinzugefügt werden.
 
+![Hinzufügen von Elementen](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/tutorials/assets/images/tutorial/add_de.gif)
+
 
 ## Element löschen
 Elemente können durch Swipe nach Links und einem Klick auf das auftauchende Lösch-Icon entfernt werden.
