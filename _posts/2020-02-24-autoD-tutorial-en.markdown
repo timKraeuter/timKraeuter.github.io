@@ -16,7 +16,7 @@ author: timKraeuter
 externalLink: false
 ---
 
-# Create exercise
+# Creating an exercise
 To calculate the difficulty of an exercise, all elements must be added. Also, the fulfilled requirements can be selected.
 ## Adding elements
 Elements can be added by clicking the plus icon and selecting the element.
@@ -37,7 +37,7 @@ Elements can be rearranged  using drag & drop.
 
 ![Element rearrangement](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/sort_en.gif)
 
-# Export/Import von Übungen
+# Export/Import of exercises
 Exercises can be exported and imported using the three dots next to the icon of the current device.
 ## Export
 ![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/export_en.gif)
