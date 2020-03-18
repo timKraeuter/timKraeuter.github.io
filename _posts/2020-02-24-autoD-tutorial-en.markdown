@@ -40,6 +40,7 @@ Elements can be rearranged  using drag & drop.
 # Export/Import of exercises
 Exercises can be exported and imported using the three dots next to the icon of the current device.
 ## Export
+The export of an exercise creates a PDF file that shows the calculation in detail.
 ![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/export_en.gif)
 
 ## Import

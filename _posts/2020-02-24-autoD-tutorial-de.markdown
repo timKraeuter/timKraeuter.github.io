@@ -41,6 +41,7 @@ Elemente können per Drag & Drop umsortiert werden.
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
 
 ## Export
+Der Export einer Übung erzeugt eine PDF-Datei, welche die Berechnung detailliert wiedergibt.
 ![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/export_de.gif)
 
 ## Import
