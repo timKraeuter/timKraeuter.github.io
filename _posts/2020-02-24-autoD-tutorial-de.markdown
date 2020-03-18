@@ -41,7 +41,8 @@ Elemente können per Drag & Drop umsortiert werden.
 Übungen können über die Drei-Punkte neben dem Icon des aktuellen Geräts exportiert und importiert werden.
 
 ## Export
-In Arbeit ...
+![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/export_de.gif)
+
 ## Import
 Exportierte Übungen können auf andere Geräte übertragen und dort in die App importiert werden, um bspw. Änderungen vorzunehmen.
 

@@ -40,7 +40,8 @@ Elements can be rearranged  using drag & drop.
 # Export/Import von Übungen
 Exercises can be exported and imported using the three dots next to the icon of the current device.
 ## Export
-Work in progress ...
+![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/export_en.gif)
+
 ## Import
 Exported exercises can be transferred to other devices and imported into the app, for example, to make changes.
 
