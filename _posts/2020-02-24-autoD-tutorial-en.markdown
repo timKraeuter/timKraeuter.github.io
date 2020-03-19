@@ -54,5 +54,5 @@ Exported exercises can be transferred to other devices and imported into the app
 </div>
 
 <div style="text-align:center">
-<a href='www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
+<a href='https://www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
 </div>
