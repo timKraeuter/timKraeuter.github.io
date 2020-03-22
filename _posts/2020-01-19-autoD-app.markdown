@@ -34,6 +34,8 @@ What can it do?
 - Export your exercise to a beautiful pdf, as seen [here](https://drive.google.com/open?id=1vzjhyJnCMgtyz4uOayX06g2zH5qw2dRP).
 - Import the created pdf files back into the app, so you can share and collaborate with your fellow gymnast friends.
 
+Have a look at my tutorial page in [english](https://timkraeuter.github.io/autoD-tutorial-en/) and [german](https://timkraeuter.github.io/autoD-tutorial-de/).
+
 ---
 
 Check it out if you are curious or a gymnast.
