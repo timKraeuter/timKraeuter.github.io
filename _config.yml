@@ -1,9 +1,9 @@
 # main text of home
 name: Tim Kräuter
-bio: I'm a software engineer in Hannover, Germany.
+bio: I'm a PhD research fellow in Bergen, Norway.
 
 # twitter summary info
-description: The homepage of a german computer science master student.
+description: The homepage of a german PhD student, who lives in Norway.
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ email: tim.kraeuter.developer@gmail.com
 authors:
     timKraeuter:
         name: Tim Kräuter
-        bio: I'm a software engineer in Hannover, Germany.
+        bio: I'm a PhD research fellow in Bergen, Norway.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
