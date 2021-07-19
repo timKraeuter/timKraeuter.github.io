@@ -28,6 +28,8 @@ I implemented an open-source plugin for IntelliJ IDEA, which visualizes the prog
 For complex debugging scenarios, you can set the depth of visualization when using the visual debugger.
 In addition, you can export the current visualization as an SVG file.
 
+If you want a detailed explanation of the plugin checkout my paper [here](https://github.com/timKraeuter/Visual_Debugging_in_IntelliJ/blob/main/Visual_Debugging_in_IntelliJ.pdf).
+
 ---
 
 Check the plugin out [here](https://plugins.jetbrains.com/plugin/16851-visual-debugger) if you are curious!
