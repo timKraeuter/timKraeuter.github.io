@@ -33,4 +33,5 @@ I have worked as a full-time software developer in the past in Hannover, Germany
 
 <ul>
 	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD</a></li>
+	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger Plugin for IntelliJ</a></li>
 </ul>
