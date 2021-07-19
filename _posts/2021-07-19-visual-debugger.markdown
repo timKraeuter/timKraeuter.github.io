@@ -5,15 +5,15 @@ date: 2021-07-19 10:30
 tag:
 - debugging
 - visualization
-- IntelliJ  
-  image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/pluginIcon.svg
-  headerImage: true
-  projects: true
-  hidden: true # don't count this post in blog pagination
-  description: "This is an app to calculate your gymnastics difficulty for all the gymnasts out there."
-  category: project
-  author: timKraeuter
-  externalLink: false
+- IntelliJ
+image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/pluginIcon.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is an app to calculate your gymnastics difficulty for all the gymnasts out there."
+category: project
+author: timKraeuter
+externalLink: false
 ---
 
 A software developer spends a large amount of their time validating and debugging
