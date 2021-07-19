@@ -33,11 +33,3 @@ If you want a detailed explanation of the plugin checkout my paper [here](https:
 ---
 
 Check the plugin out [here](https://plugins.jetbrains.com/plugin/16851-visual-debugger) if you are curious!
-
-<div class="breaker"></div>
-
-<div style="text-align:center">
-<iframe frameborder="none" width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/16851"></iframe>
-</div>
-<script defer src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
-
