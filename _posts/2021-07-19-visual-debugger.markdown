@@ -19,7 +19,7 @@ externalLink: false
 A software developer spends a large amount of their time validating and debugging
 software.
 Traditionally, debuggers depict information in a text-based format.
-I implemented an open-source plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
+I implemented an [open-source](https://github.com/timKraeuter/VisualDebugger) plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
 
 ![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/overview.png)
 
@@ -32,11 +32,11 @@ In addition, you can export the current visualization as an SVG file.
     <iframe frameborder="none" width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/16851"></iframe>
 </div>
 
-If you want a detailed explanation of the plugin checkout my paper [here](https://github.com/timKraeuter/Visual_Debugging_in_IntelliJ/blob/main/Visual_Debugging_in_IntelliJ.pdf).
+Check the plugin out [here](https://plugins.jetbrains.com/plugin/16851-visual-debugger) if you are curious!
 
 ---
 
-Check the plugin out [here](https://plugins.jetbrains.com/plugin/16851-visual-debugger) if you are curious!
+If you want a detailed explanation of the plugin checkout my paper [here](https://github.com/timKraeuter/Visual_Debugging_in_IntelliJ/blob/main/Visual_Debugging_in_IntelliJ.pdf).
 
 <div class="breaker"></div>
 
