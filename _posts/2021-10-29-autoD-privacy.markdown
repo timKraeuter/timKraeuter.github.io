@@ -1,7 +1,7 @@
 ---
 title: "autoD: Privacy policy"
 layout: post
-date: 2020-01-19 15:10
+date: 2021-10-29 14:30
 tag:
 - app
 - privacy
