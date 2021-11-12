@@ -7,7 +7,7 @@ tag:
 - privacy
 image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/playstore_icon.png
 headerImage: true
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "Privacy policy for the autoD app."
 category: project
