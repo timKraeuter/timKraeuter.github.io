@@ -5,7 +5,7 @@ date: 2021-10-29 14:30
 tag:
 - app
 - privacy
-image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/playstore_icon.png
+image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/autoD_icon_dark.png
 headerImage: true
 projects: false
 hidden: true # don't count this post in blog pagination
