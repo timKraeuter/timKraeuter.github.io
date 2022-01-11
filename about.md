@@ -41,6 +41,6 @@ I have worked as a full-time software developer in the past in Hannover, Germany
 <h2>Side Projects</h2>
 
 <ul>
-	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD</a></li>
-	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger Plugin for IntelliJ</a></li>
+	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD: An app to calculate the difficulty of a gymnastics routine.</a></li>
+	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
 </ul>
