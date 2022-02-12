@@ -47,7 +47,7 @@ Check the plugin out [here](https://plugins.jetbrains.com/plugin/16851-visual-de
 
 ---
 
-If you want a detailed explanation of the plugin checkout my paper [here](https://github.com/timKraeuter/Visual_Debugging_in_IntelliJ/blob/main/Visual_Debugging_in_IntelliJ.pdf).
+If you want a detailed explanation of the plugin checkout my summary [here](https://github.com/timKraeuter/Visual_Debugging_in_IntelliJ/blob/main/Visual_Debugging_in_IntelliJ.pdf).
 
 <div class="breaker"></div>
 
