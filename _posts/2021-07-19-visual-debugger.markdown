@@ -20,6 +20,9 @@ A software developer spends a large amount of their time validating and debuggin
 software.
 Traditionally, debuggers depict information in a text-based format.
 I implemented an [open-source](https://github.com/timKraeuter/VisualDebugger) plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
+
+[![Visual Debugger Tool Demonstration Video](https://img.youtube.com/vi/lU_OgotweRk/0.jpg)](https://www.youtube.com/watch?v=lU_OgotweRk)
+
 In many scenarios, graphical representations such as object diagrams are more understandable than textual representations when representing the state of an object-oriented system.
 You can see the different representations in the following screenshot, which includes an object diagram view for the debugging variables on the right.
 
