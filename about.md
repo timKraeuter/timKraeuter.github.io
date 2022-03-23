@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I'm a PhD research fellow in Bergen, Norway.</p>
+<p>I am a Ph.D. research fellow in Bergen, Norway, and a software engineer.</p>
 
 <h2>Research areas</h2>
 
@@ -23,9 +23,10 @@ layout: page
     </ul>
 </ol>
 
-<h2>Skills</h2>
+<h2>Software engineering</h2>
 
-I have worked as a full-time software developer in the past in Hannover, Germany.
+I have worked as a software engineer in the past in Hannover, Germany.
+Among other things, I have acquired knowledge about the following:
 
 <ul class="skill-list">
 	<li>Java</li>
@@ -38,7 +39,7 @@ I have worked as a full-time software developer in the past in Hannover, Germany
 	<li>Test-driven development</li>
 </ul>
 
-<h2>Side Projects</h2>
+<h2>Side projects</h2>
 
 <ul>
 	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD: An app to calculate the difficulty of a gymnastics routine.</a></li>
