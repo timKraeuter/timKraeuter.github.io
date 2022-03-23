@@ -29,12 +29,12 @@ The following YouTube video demonstrates the use of the visual debugger.
 In many scenarios, graphical representations such as object diagrams are more understandable than textual representations when representing the state of an object-oriented system.
 You can see the different representations in the following screenshot, which includes an object diagram view for the debugging variables on the right.
 
-![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/overview.png)
+![Screenshot embedded UI](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/overview.png)
 
 However, the view above is only a picture that does not allow any user interaction, while you can double-click on variables on the left to load more information about that variable.
 Consequently, I have developed a browser-based visualization that allows user interaction. One can switch between the two implemented visualizations in the plugin settings.
 
-![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/webUI.png)
+![Screenshot browser UI](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/webUI.png)
 
 The browser will connect via WebSocket to the plugin, such that it will receive live updates when the debugger variables changed due to IDEA input.
 The UI is [open-source](https://github.com/timKraeuter/object-diagram-modeler/tree/master/debugger) and not tied to IntelliJ IDEA and can be used as a debugging view for other IDE's when debugging object-oriented code.
