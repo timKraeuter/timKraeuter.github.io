@@ -31,12 +31,13 @@ Among other things, I have acquired knowledge about the following:
 <ul class="skill-list">
 	<li>Java</li>
 	<li>Gradle, Maven</li>
-	<li>Typescript</li>
+	<li>Typescript, Javascript</li>
 	<li>HTML, CSS</li>
 	<li>Angular, Ionic</li>
 	<li>SVN, Git</li>
 	<li>Scrum and Kanban</li>
 	<li>Test-driven development</li>
+	<li>Continuous integration/Continuous delivery</li>
 </ul>
 
 <h2>Side projects</h2>
