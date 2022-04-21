@@ -24,7 +24,7 @@ url: https://timkraeuter.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-154703476-1'
+analytics-google: 'G-P9JV8109E6'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
