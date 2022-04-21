@@ -24,7 +24,7 @@ url: https://timkraeuter.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'G-YTF38DDTEH'
+analytics-google: 'UA-154703476-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
