@@ -21,6 +21,10 @@ layout: page
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf">Pre-Print</a></li>
         <li><a href="https://doi.org/10.1109/MODELS-C53483.2021.00107">Research Paper (DOI: 10.1109/MODELS-C53483.2021.00107)</a></li>
     </ul>
+	<li>The Visual Debugger Tool. To appear in 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)</li>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf">Pre-Print</a></li>
+    </ul>
 </ol>
 
 <h2>Software engineering</h2>
