@@ -16,10 +16,10 @@ author: timKraeuter
 externalLink: false
 ---
 
-A software developer spends a large amount of their time validating and debugging
-software.
+A software developer spends a large amount of their time validating and debugging software.
 Traditionally, debuggers depict information in a text-based format.
-I implemented an [open-source](https://github.com/timKraeuter/VisualDebugger) plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
+However, in my opinion, when there are many connected objects, a graphical representation during debugging is easier to comprehend.
+Thus, I implemented an [open-source](https://github.com/timKraeuter/VisualDebugger) plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
 The following YouTube video demonstrates the use of the visual debugger.
 Also, look at the [preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf) of my research paper about the Visual Debugger tool, published in the IEEE International Conference on Software Maintenance and Evolution (ICSME) 2022.
 
