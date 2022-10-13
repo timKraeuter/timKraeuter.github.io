@@ -21,7 +21,7 @@ software.
 Traditionally, debuggers depict information in a text-based format.
 I implemented an [open-source](https://github.com/timKraeuter/VisualDebugger) plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging.
 The following YouTube video demonstrates the use of the visual debugger.
-Also, look at the [preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf) of my research paper written about the Visual Debugger tool.
+Also, look at the [preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf) of my research paper about the Visual Debugger tool, published in the IEEE International Conference on Software Maintenance and Evolution (ICSME) 2022.
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lU_OgotweRk" title="Visual Debugger Tool Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
