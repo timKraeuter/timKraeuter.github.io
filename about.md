@@ -18,12 +18,12 @@ layout: page
 <ol>
 	<li>Towards behavioral consistency in heterogeneous modeling scenarios. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf">Preprint version</a></li>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1109/MODELS-C53483.2021.00107">Research Paper (DOI: 10.1109/MODELS-C53483.2021.00107)</a></li>
     </ul>
 	<li>The Visual Debugger Tool. In 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf">Preprint version</a></li>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1109/ICSME55016.2022.00066">Research Paper (DOI: 10.1109/ICSME55016.2022.00066)</a></li>
     </ul>
 </ol>
