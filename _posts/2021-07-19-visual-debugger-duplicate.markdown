@@ -1,7 +1,7 @@
 ---
 title: "BPMN Analyzer: Formal analysis of BPMN process models :chart_with_upwards_trend:"
 layout: post
-date: 2021-08-23 10:00
+date: 2023-08-23 10:00
 tag:
 - debugging
 - visualization
