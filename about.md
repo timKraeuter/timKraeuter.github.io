@@ -50,4 +50,5 @@ Among other things, I have acquired knowledge about the following:
 <ul>
 	<li><a href="https://timkraeuter.github.io//autoD-app/">autoD: An app to calculate the difficulty of a gymnastics routine.</a></li>
 	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
+	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models</a></li>
 </ul>

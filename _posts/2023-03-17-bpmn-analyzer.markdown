@@ -1,5 +1,5 @@
 ---
-title: "Formal analysis of BPMN :chart_with_upwards_trend:"
+title: "BPMN Analyzer: Formal analysis of BPMN process models :chart_with_upwards_trend:"
 layout: post
 date: 2023-03-17 10:45
 tag:
