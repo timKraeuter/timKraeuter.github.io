@@ -10,7 +10,7 @@ image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/maste
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is an app to calculate your gymnastics difficulty for all the gymnasts out there."
+description: "This is a plugin for IntelliJ IDEA, which visualizes the program state as an object diagram during debugging."
 category: project
 author: timKraeuter
 externalLink: false
