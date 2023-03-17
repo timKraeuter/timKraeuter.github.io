@@ -1,7 +1,7 @@
 ---
 title: "Visual Debugging in IntelliJ :beetle:"
 layout: post
-date: 2021-08-23 10:00
+date: 2022-10-07 10:00
 tag:
 - debugging
 - visualization
