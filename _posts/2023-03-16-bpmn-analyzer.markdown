@@ -6,7 +6,7 @@ tag:
 - BPMN
 - formalization
 - model checking
-image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/bpmnAnalyzer/bug.svg
+image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/bpmnAnalyzer/icon.svg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
