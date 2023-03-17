@@ -21,6 +21,6 @@ It is heavily for process automation and orchestration in [many businesses](http
 Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts.
 The [BPMN Analyzer](https://bpmnanalyzer.whitefield-c9fed487.northeurope.azurecontainerapps.io/) is an [open-source](https://github.com/timKraeuter/Rewrite_Rule_Generation) tool to analyze BPMN process models formally.
 
-Our tool supports [most BPMN constructs](https://github.com/timKraeuter/Rewrite_Rule_Generation/wiki#feature-support-comparison) used in practice and allows checking behavioral properties.
+The tool supports [most BPMN constructs](https://github.com/timKraeuter/Rewrite_Rule_Generation/wiki#feature-support-comparison) used in practice and allows checking behavioral properties.
 
 More information is coming soon.
