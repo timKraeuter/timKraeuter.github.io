@@ -1,5 +1,5 @@
 ---
-title: ":muscle: autoD: calculate your gymnastics difficulty"
+title: "autoD: calculate your gymnastics difficulty :muscle:"
 layout: post
 date: 2020-01-19 15:10
 tag:

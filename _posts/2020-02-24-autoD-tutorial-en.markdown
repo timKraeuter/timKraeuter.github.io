@@ -1,5 +1,5 @@
 ---
-title: ":muscle: autoD: Quick Tutorial"
+title: "autoD: Quick Tutorial :muscle:"
 layout: post
 date: 2020-02-24 19:33
 tag:

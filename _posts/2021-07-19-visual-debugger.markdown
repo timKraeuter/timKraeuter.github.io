@@ -1,5 +1,5 @@
 ---
-title: ":beetle: Visual Debugging in IntelliJ"
+title: "Visual Debugging in IntelliJ :beetle:"
 layout: post
 date: 2021-08-23 10:00
 tag:
