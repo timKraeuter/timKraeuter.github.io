@@ -1,11 +1,11 @@
 ---
 title: "BPMN Analyzer: Formal analysis of BPMN process models :chart_with_upwards_trend:"
 layout: post
-date: 2023-08-23 10:00
+date: 2023-03-16 10:00
 tag:
-- debugging
-- visualization
-- IntelliJ
+- BPMN
+- formalization
+- model checking
 image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/visualDebugger/pluginIcon.png
 headerImage: true
 projects: true
