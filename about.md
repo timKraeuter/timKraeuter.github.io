@@ -26,6 +26,11 @@ layout: page
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1109/ICSME55016.2022.00066">Research Paper (DOI: 10.1109/ICSME55016.2022.00066)</a></li>
     </ul>
+	<li>Formalization and analysis of BPMN using graph transformation systems. In 16th International Conference on Graph Transformation (ICGT 2023)</li>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf">Preprint</a></li>
+        <li><a href="https://doi.org/">Research Paper (DOI: TBD)</a></li>
+    </ul>
 </ol>
 
 <h2>Software engineering</h2>
