@@ -31,6 +31,11 @@ layout: page
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf">Preprint</a></li>
         <li><a href="https://doi.org/">Research Paper (DOI: TBD)</a></li>
     </ul>
+    <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Behavioral_consistency_in_multi_modeling.pdf">Preprint</a></li>
+        <li><a href="https://doi.org/">Research Paper (DOI: TBD)</a></li>
+    </ul>
 </ol>
 
 <h2>Software engineering</h2>
