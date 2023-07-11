@@ -34,7 +34,7 @@ layout: page
     <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Behavioral_consistency_in_multi_modeling.pdf">Preprint</a></li>
-        <li><a href="https://doi.org/">Research Paper (DOI: TBD)</a></li>
+        <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Research Paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
     </ul>
 </ol>
 
