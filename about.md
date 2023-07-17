@@ -29,7 +29,7 @@ layout: page
 	<li>Formalization and analysis of BPMN using graph transformation systems. In 16th International Conference on Graph Transformation (ICGT 2023)</li>
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf">Preprint</a></li>
-        <li><a href="https://doi.org/">Research Paper (DOI: TBD)</a></li>
+        <li><a href="https://doi.org/10.1007/978-3-031-36709-0_11">Research Paper (DOI: 10.1007/978-3-031-36709-0_11)</a></li>
     </ul>
     <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
     <ul>
