@@ -2,7 +2,9 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{
+site.picture }}{% endif %})
 
 <p>I am a Ph.D. research fellow in Bergen, Norway, and a software engineer.</p>
 
@@ -30,6 +32,7 @@ layout: page
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1007/978-3-031-36709-0_11">Research Paper (DOI: 10.1007/978-3-031-36709-0_11)</a></li>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/BestPaperICGT2023.pdf"><b>&#9733; Best Paper Award &#9733;</b></a></li>    
     </ul>
     <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
     <ul>

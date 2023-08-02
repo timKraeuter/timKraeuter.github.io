@@ -28,5 +28,5 @@ The following screenshot shows the detection of a dead activity in a BPMN model.
 ![Screenshot of the BPMN Analyzer tool detecting a dead activity](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/bpmnAnalyzer/screenshot.png)
 
 I published a [research paper](https://doi.org/10.1007/978-3-031-36709-0_11) about the formalization used in the tool at the 16th International Conference on Graph Transformation (ICGT 2023).
-The paper won the [_best application paper_](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/bestpaperICGT.pdf) award.
-For more information look at the corresponding [preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf).
+The paper won the [**&#9733; Best Paper Award &#9733;**](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/BestPaperICGT2023.pdf).
+You can read the [preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf) of the paper for free.
