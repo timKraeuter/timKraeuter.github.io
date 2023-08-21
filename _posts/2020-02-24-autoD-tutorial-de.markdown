@@ -1,5 +1,5 @@
 ---
-title: "autoD: Kurzeinführung :muscle:"
+title: "Smart CoP: Kurzeinführung :muscle:"
 layout: post
 date: 2020-02-24 19:33
 tag:
@@ -10,7 +10,7 @@ image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/maste
 headerImage: true
 projects: false
 hidden: true # don't count this post in blog pagination
-description: "autoD: Kurzeinführung"
+description: "Smart CoP: Kurzeinführung"
 category: blog
 author: timKraeuter
 externalLink: false

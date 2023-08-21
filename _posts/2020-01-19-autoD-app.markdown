@@ -1,5 +1,5 @@
 ---
-title: "autoD: calculate your gymnastics difficulty :muscle:"
+title: "Smart CoP: calculate your gymnastics difficulty :muscle:"
 layout: post
 date: 2020-01-19 15:10
 tag:
@@ -17,7 +17,7 @@ externalLink: false
 
 Since no gymnast from my club, including me, knew how to calculate his difficulty score, I made an app that does it for you.
 
-Example of the app - autoD - calculating the difficulty of a floor exercise.
+Example of the app - Smart CoP - calculating the difficulty of a floor exercise.
 
 ![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/screenshot.jpg)
 
