@@ -51,8 +51,13 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
 
 <div class="breaker"></div>
 
-<div style="text-align:center">
-<a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<div style="display:flex;width:100%;align-items:center;">
+    <div style="flex:49.99%;padding:5px">
+    <a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/g-play.svg'/></a>
+    </div>
+    <div style="flex:49.99%;padding:5px">
+    <a href='https://smartcoppwa.web.app'><img alt='Launch as Web App' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/PWA-dark-en.svg'/></a>
+    </div>
 </div>
 
 <div style="text-align:center">
