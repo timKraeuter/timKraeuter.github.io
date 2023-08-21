@@ -49,7 +49,7 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
 
 ![Import einer Übung](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/import_de.gif)
 
-<div class="breaker"></div>
+---
 
 <div style="display:flex;width:100%;align-items:center;;margin-top:-18%;">
     <div style="flex:49.99%;padding:5px">
@@ -60,6 +60,6 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
     </div>
 </div>
 
-<div style="text-align:center;margin-top:-15%;">
+<div style="text-align:center;margin-top:-15%;margin-bottom:-15%;">
 <a href='https://www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
 </div>

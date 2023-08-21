@@ -47,7 +47,8 @@ The export of an exercise creates a PDF file that shows the calculation in detai
 Exported exercises can be transferred to other devices and imported into the app, for example, to make changes.
 
 ![Import of an exercise](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/import_en.gif)
-<div class="breaker"></div>
+
+---
 
 <div style="display:flex;width:100%;align-items:center;;margin-top:-18%;">
     <div style="flex:49.99%;padding:5px">
@@ -58,6 +59,6 @@ Exported exercises can be transferred to other devices and imported into the app
     </div>
 </div>
 
-<div style="text-align:center;margin-top:-15%;">
+<div style="text-align:center;margin-top:-15%;margin-bottom:-15%;">
 <a href='https://www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
 </div>
