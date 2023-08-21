@@ -47,6 +47,3 @@ Check it out below if you are curious!
     <a href='https://smartcoppwa.web.app'><img alt='Launch as Web App' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/PWA-dark-en.svg'/></a>
     </div>
 </div>
-<div class="breaker"></div>
-
-
