@@ -51,7 +51,7 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
 
 <div class="breaker"></div>
 
-<div style="display:flex;width:100%;align-items:center;">
+<div style="display:flex;width:100%;align-items:center;;margin-top:-18%;">
     <div style="flex:49.99%;padding:5px">
     <a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/g-play.svg'/></a>
     </div>
@@ -60,6 +60,6 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
     </div>
 </div>
 
-<div style="text-align:center">
+<div style="text-align:center;margin-top:-15%;">
 <a href='https://www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
 </div>
