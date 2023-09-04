@@ -40,7 +40,7 @@ site.picture }}{% endif %})
     </ul>
     <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras</li>
     <ul>
-        <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access Research Paper (DOI: https://doi.org/10.4230/LIPIcs.CALCO.2023.7)</a></li>
+        <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access Research Paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
 </ol>
 
