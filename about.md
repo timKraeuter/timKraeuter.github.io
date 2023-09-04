@@ -36,8 +36,11 @@ site.picture }}{% endif %})
     </ul>
     <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Behavioral_consistency_in_multi_modeling.pdf">Preprint</a></li>
-        <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Research Paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
+        <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Open-access Research Paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
+    </ul>
+    <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras</li>
+    <ul>
+        <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access Research Paper (DOI: https://doi.org/10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
 </ol>
 
