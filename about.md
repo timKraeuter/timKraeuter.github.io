@@ -34,11 +34,11 @@ site.picture }}{% endif %})
         <li><a href="https://doi.org/10.1007/978-3-031-36709-0_11">Research Paper (DOI: 10.1007/978-3-031-36709-0_11)</a></li>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/BestPaperICGT2023.pdf"><b>&#9733; Best Paper Award &#9733;</b></a></li>    
     </ul>
-    <li>Behavioral consistency in multi-modeling. In 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)</li>
+    <li>Behavioral consistency in multi-modeling. The Journal of Object Technology, 22(2):2:1, 2023.</li>
     <ul>
         <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Open-access Research Paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
     </ul>
-    <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras</li>
+    <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras. In 10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023)</li>
     <ul>
         <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access Research Paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
