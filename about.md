@@ -50,15 +50,15 @@ I have worked as a software engineer in the past in Hannover, Germany.
 Among other things, I have acquired knowledge about the following:
 
 <ul class="skill-list">
-	<li>Java (Gradle, Maven, Spring)</li>
-	<li>Typescript & Javascript (Angular, Ionic, HTML, CSS, diagram-js, bpmn-js)</li>
-	<li>Rust</li>
-	<li>**Version Control** (Git, SVN)</li>
-	<li>CI/CD (Jenkins, GitHub Actions, GitLab)</li>
-	<li>Databases (SQL, NoSQL)</li>
-	<li>System Architecture & System Integration</li>
-	<li>Test-Driven development</li>
-	<li>Agile Development (Scrum and Kanban)</li>
+	<li><b>Java</b> (Gradle, Maven, Spring)</li>
+	<li><b>Typescript & Javascript</b> (Angular, Ionic, HTML, CSS, diagram-js, bpmn-js)</li>
+	<li><b>Rust</b></li>
+	<li><b>Version Control</b> (Git, SVN)</li>
+	<li><b>CI/CD</b> (Jenkins, GitHub Actions, GitLab)</li>
+	<li><b>Databases</b> (SQL, NoSQL)</li>
+	<li><b>System Architecture & System Integration</b></li>
+	<li><b>Test-Driven development</b></li>
+	<li><b>Agile Development</b> (Scrum and Kanban)</li>
 </ul>
 
 <h2>Side projects</h2>
