@@ -61,7 +61,7 @@ Among other things, I have acquired knowledge about the following:
 	<li><b>Agile Development</b> (Scrum and Kanban)</li>
 </ul>
 
-<h2>Side projects</h2>
+<h2>Projects</h2>
 
 <ul>
 	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app to calculate the difficulty of a gymnastics routine.</a></li>
