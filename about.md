@@ -14,6 +14,8 @@ site.picture }}{% endif %})
 	<li>Model-driven software engineering</li>
 	<li>Multi-model driven software engineering</li>
 	<li>Behavioral Modeling</li>
+    <li>Debugging and Debugging tools</li>
+    <li>Business process modeling and BPMN model checking</li>
 </ul>
 
 <h2>Publications</h2>
