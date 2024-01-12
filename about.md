@@ -42,6 +42,11 @@ site.picture }}{% endif %})
     <ul>
         <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access Research Paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
+    <li>The Visual Debugger: Past, Present, and Future. To appear in 46th International Conference on Software Engineering (ICSE 2024)</li>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf">Preprint</a></li>
+        <li><a href="https://doi.org">Research Paper (DOI: TBD)</a></li>
+    </ul>
 </ol>
 
 <h2>Software engineering</h2>
