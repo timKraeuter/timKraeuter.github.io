@@ -19,7 +19,7 @@ Since no gymnast from my club, including me, knew how to calculate his difficult
 
 Example of the app - Smart CoP - calculating the difficulty of a floor exercise.
 
-![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/screenshot.jpg)
 
 It is an app to calculate your gymnastics difficulty. You select the elements of your exercise and the app automatically calculates the difficulty score.
 
