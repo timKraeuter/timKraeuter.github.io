@@ -59,7 +59,3 @@ Exportierte Übungen können auf andere Geräte übertragen und dort in die App 
     <a href='https://smartcoppwa.web.app'><img alt='Launch as Web App' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/PWA-dark-en.svg'/></a>
     </div>
 </div>
-
-<div style="text-align:center;margin-top:-15%;margin-bottom:-15%;">
-<a href='https://www.paypal.me/timKraeuter'><img alt='Donate button' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/tutorial/donate.gif'/></a>
-</div>
