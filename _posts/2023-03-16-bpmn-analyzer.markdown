@@ -21,6 +21,10 @@ It is used heavily for process automation and orchestration in [many businesses]
 Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts.
 The [BPMN Analyzer](https://bpmnanalyzer.whitefield-c9fed487.northeurope.azurecontainerapps.io/) is an [open-source](https://github.com/timKraeuter/Rewrite_Rule_Generation) tool to analyze BPMN process models formally.
 
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxXbNUl6IjE" title="BPMN Analyzer Tool Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 The tool supports [most BPMN constructs](https://github.com/timKraeuter/Rewrite_Rule_Generation/wiki#feature-support-comparison) used in practice and allows checking behavioral properties.
 Especially, it can check if a BPMN model contains dead activities (activities which can never execute) or cannot terminate.
 The following screenshot shows the detection of a dead activity in a BPMN model. The activity can never execute due to wrong gateway usage.
