@@ -28,8 +28,8 @@ The following YouTube video demonstrates the use of the Visual Debugger.
 
 I published two research papers about the Visual Debugger.
 The first paper describes the Visual Debugger and its motivation ([preprint](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf)).
-It is [published](https://doi.org/10.1109/ICSME55016.2022.00066) at the **International Conference on Software Maintenance and Evolution (ICSME)** 2022.
-In addition, I describe the new features of the Visual Debugger in the second [paper](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf), which is [published](https://doi.org/10.1145/3643796.3648443) at the **International Conference on Software Engineering (ICSE)** 2024.
+It is [published](https://doi.org/10.1109/ICSME55016.2022.00066) at the **International Conference on Software Maintenance and Evolution (ICSME) 2022**.
+In addition, I describe the new features of the Visual Debugger in the second [paper](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf), which is [published](https://doi.org/10.1145/3643796.3648443) at the **International Conference on Software Engineering (ICSE) 2024**.
 
 
 In many scenarios, graphical representations such as object diagrams are more understandable than textual representations when representing the state of an object-oriented system.
