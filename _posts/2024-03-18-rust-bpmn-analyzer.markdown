@@ -1,7 +1,7 @@
 ---
 title: "Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution :chart_with_upwards_trend:"
 layout: post
-date: 2024-03-18 20:00
+date: 2024-03-18 18:00
 tag:
 - BPMN
 - control-flow analysis
