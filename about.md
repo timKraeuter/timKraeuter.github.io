@@ -73,4 +73,5 @@ Among other things, I have acquired knowledge about the following:
 	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app to calculate the difficulty of a gymnastics routine.</a></li>
 	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
 	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models</a></li>
+	<li><a href="https://timkraeuter.github.io//rust-bpmn-analyzer/">Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution</a></li>
 </ul>
