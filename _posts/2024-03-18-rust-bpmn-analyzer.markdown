@@ -17,7 +17,7 @@ externalLink: false
 ---
 The Rust BPMN Analyzer is a tool to analyze BPMN process models to find, display, and fix control-flow errors already during modeling.
 Unlike my previous [BPMN Analyzer](https://timkraeuter.com/bpmn-analyzer/), this tool is written in Rust and uses a pragmatic encoding of BPMN semantics for optimal performance regarding control-flow analysis.
-A demo version of the Analyzer is hosted [online](https://bpm-2024.whitefield-c9fed487.northeurope.azurecontainerapps.io/) and the source code will be open-source ([front-end](https://github.com/timKraeuter/bpmn-analyzer-js), [back-end](https://github.com/timKraeuter/RustBPMNAnalyzer)), after the review of my research paper about the analyzer.
+A demo version of the Analyzer is hosted [online](https://bpm-2024.whitefield-c9fed487.northeurope.azurecontainerapps.io/) and the source code will be open-source ([front-end](https://github.com/timKraeuter/bpmn-analyzer-js), [back-end](https://github.com/timKraeuter/rust_bpmn_analyzer)), after the review of my research paper about the analyzer.
 The following is a screenshot of our demo version:
 
 <!-- 
