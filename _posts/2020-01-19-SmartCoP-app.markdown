@@ -8,7 +8,7 @@ tag:
 image: https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/autoD_icon_dark.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "This is an app to calculate your gymnastics difficulty for all the gymnasts out there."
 category: project
 author: timKraeuter
