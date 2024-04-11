@@ -11,11 +11,9 @@ site.picture }}{% endif %})
 <h2>Research areas</h2>
 
 <ul class="skill-list">
-	<li>Model-driven software engineering</li>
-	<li>Multi-model driven software engineering</li>
-	<li>Behavioral Modeling</li>
-    <li>Debugging and Debugging tools</li>
-    <li>Business process modeling and BPMN model checking</li>
+	<li>Model-driven software engineering, focused on executable models (BPMN, state machines)</li>
+    <li>Debugging and Debugging tools in IDEs</li>
+    <li>Business process modeling and BPMN verification</li>
 </ul>
 
 <h2>Publications</h2>
@@ -56,11 +54,12 @@ I have worked as a software engineer in the past in Hannover, Germany.
 Among other things, I have acquired knowledge about the following:
 
 <ul class="skill-list">
-	<li>Java (Gradle, Maven, Spring)</li>
-	<li>Typescript & Javascript (Angular, Ionic, HTML, CSS, diagram-js, bpmn-js)</li>
-	<li>Rust</li>
+	<li>Java (Spring, Gradle, Maven)</li>
+	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
+	<li>Rust (axum, tokio)</li>
 	<li>Version Control (Git, SVN)</li>
-	<li>CI/CD (Jenkins, GitHub Actions, GitLab)</li>
+	<li>CI/CD (GitHub Actions, Jenkins, GitLab)</li>
+	<li>Containerization (Azure, GCloud)</li>
 	<li>Databases (SQL, NoSQL)</li>
 	<li>System Architecture & System Integration</li>
 	<li>Test-Driven development</li>
