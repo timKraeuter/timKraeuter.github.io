@@ -6,7 +6,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{
 site.picture }}{% endif %})
 
-<p>I am a Ph.D. research fellow in Bergen, Norway, and a software engineer.</p>
+<p>I am a software engineer and Ph.D. candidate located in Bergen, Norway.</p>
 
 <h2>Research areas</h2>
 
