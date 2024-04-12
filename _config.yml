@@ -1,6 +1,6 @@
 # main text of home
 name: Tim Kräuter
-bio: I'm a software engineer and Ph.D. candidate located in Bergen, Norway.
+bio: I'm a software engineer and Ph.D. candidate in Bergen, Norway.
 
 # twitter summary info
 description: The homepage of a german PhD student, who lives in Norway.
@@ -43,7 +43,7 @@ email: developer@timkraeuter.com
 authors:
     timKraeuter:
         name: Tim Kräuter
-        bio: I'm a software engineer and Ph.D. candidate located in Bergen, Norway.
+        bio: I'm a software engineer and Ph.D. candidate in Bergen, Norway.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
