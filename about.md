@@ -44,6 +44,7 @@ site.picture }}{% endif %})
     </ul>
     <li>The Visual Debugger: Past, Present, and Future. To appear in 46th International Conference on Software Engineering (ICSE 2024)</li>
     <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
     </ul>
 </ol>
