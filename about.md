@@ -52,7 +52,7 @@ site.picture }}{% endif %})
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf">Preprint</a></li>
         <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
     </ul>
-    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science</li>
+    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science (Extended version of 3)</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
