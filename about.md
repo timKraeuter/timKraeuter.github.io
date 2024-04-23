@@ -20,14 +20,12 @@ site.picture }}{% endif %})
 <ol>
 	<li>Towards behavioral consistency in heterogeneous modeling scenarios. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf">Preprint (GitHub)</a></li>
-        <li><a href="https://arxiv.org/abs/2404.12941">Preprint (arXiv)</a></li>
+        <li><a href="https://arxiv.org/abs/2404.12941">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1109/MODELS-C53483.2021.00107">Research paper (DOI: 10.1109/MODELS-C53483.2021.00107)</a></li>
     </ul>
 	<li>The Visual Debugger Tool. In 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf">Preprint (GitHub)</a></li>
-        <li><a href="https://arxiv.org/abs/2404.12932">Preprint (arXiv)</a></li>
+        <li><a href="https://arxiv.org/abs/2404.12932">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1109/ICSME55016.2022.00066">Research paper (DOI: 10.1109/ICSME55016.2022.00066)</a></li>
     </ul>
 	<li>Formalization and analysis of BPMN using graph transformation systems. In 16th International Conference on Graph Transformation (ICGT 2023)</li>
@@ -46,13 +44,12 @@ site.picture }}{% endif %})
     </ul>
     <li>The Visual Debugger: Past, Present, and Future. To appear in IDE workshop at the 46th International Conference on Software Engineering (ICSE 2024)</li>
     <ul>
-        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf">Preprint (GitHub)</a></li>
-        <li><a href="https://arxiv.org/abs/2403.03683">Preprint (arXiv)</a></li>
+        <li><a href="https://arxiv.org/abs/2403.03683">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
     </ul>
-    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science (Extended version of 3)</li>
+    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science (Extended version of publication 3)</li>
     <ul>
-        <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv)</a></li>
+        <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS-2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
     </ul>
 </ol>
