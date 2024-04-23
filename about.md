@@ -8,12 +8,38 @@ site.picture }}{% endif %})
 
 <p>I am a software engineer and Ph.D. candidate located in Bergen, Norway.</p>
 
+<h2>Software engineering</h2>
+
+I apply my software engineering skills on a daily basis to validate my research ideas. Previously, I worked full-time as a software engineer in Hannover, Germany. Among other things, I have acquired knowledge about the following:
+
+<ul class="skill-list">
+	<li>Java (Spring, Gradle, Maven)</li>
+	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
+	<li>Rust (axum, tokio)</li>
+	<li>Version Control (Git, SVN)</li>
+	<li>CI/CD (GitHub Actions, Jenkins, GitLab)</li>
+	<li>Containerization (Azure, GCloud)</li>
+	<li>Databases (SQL, NoSQL)</li>
+	<li>System Architecture & System Integration</li>
+	<li>Test-Driven development</li>
+	<li>Agile Development (Scrum and Kanban)</li>
+</ul>
+
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app to calculate the difficulty of a gymnastics routine.</a></li>
+	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
+	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models</a></li>
+	<li><a href="https://timkraeuter.github.io//rust-bpmn-analyzer/">Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution</a></li>
+</ul>
+
 <h2>Research areas</h2>
 
 <ul class="skill-list">
 	<li>Model-driven software engineering, focused on executable models (BPMN, state machines)</li>
     <li>Debugging and Debugging tools in IDEs</li>
-    <li>Business process modeling and BPMN verification</li>
+    <li>Model checking, especially BPMN model checking</li>
 </ul>
 
 <h2>Publications</h2>
@@ -54,29 +80,3 @@ site.picture }}{% endif %})
     </ul>
 </ol>
 
-<h2>Software engineering</h2>
-
-I have worked as a software engineer in the past in Hannover, Germany.
-Among other things, I have acquired knowledge about the following:
-
-<ul class="skill-list">
-	<li>Java (Spring, Gradle, Maven)</li>
-	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
-	<li>Rust (axum, tokio)</li>
-	<li>Version Control (Git, SVN)</li>
-	<li>CI/CD (GitHub Actions, Jenkins, GitLab)</li>
-	<li>Containerization (Azure, GCloud)</li>
-	<li>Databases (SQL, NoSQL)</li>
-	<li>System Architecture & System Integration</li>
-	<li>Test-Driven development</li>
-	<li>Agile Development (Scrum and Kanban)</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app to calculate the difficulty of a gymnastics routine.</a></li>
-	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
-	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models</a></li>
-	<li><a href="https://timkraeuter.github.io//rust-bpmn-analyzer/">Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution</a></li>
-</ul>
