@@ -28,10 +28,10 @@ I apply my software engineering skills on a daily basis to validate my research 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app to calculate the difficulty of a gymnastics routine.</a></li>
-	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: A plugin for IntelliJ which visualizes debugging variables in an object diagram.</a></li>
-	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models</a></li>
-	<li><a href="https://timkraeuter.github.io//rust-bpmn-analyzer/">Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution</a></li>
+	<li><a href="https://timkraeuter.github.io//rust-bpmn-analyzer/">Rust BPMN Analyzer: Instantaneous BPMN control-flow analysis and error resolution.</a></li>
+	<li><a href="https://timkraeuter.github.io//visual-debugger/">Visual Debugger: An IntelliJ plugin which visualizes debugging variables graphically with over 10k downloads.</a></li>
+	<li><a href="https://timkraeuter.github.io//bpmn-analyzer/">BPMN Analyzer: Formal analysis of BPMN process models using graph transformations.</a></li>
+	<li><a href="https://timkraeuter.github.io//SmartCoP-app/">Smart CoP: An app available in the play store to calculate the difficulty of a gymnastics routine.</a></li>
 </ul>
 
 <h2>Research areas</h2>
