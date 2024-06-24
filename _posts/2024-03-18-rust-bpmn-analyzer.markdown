@@ -31,7 +31,7 @@ The Analyzer has three _ambitious_ goals:
 2. **Understandability** of the found control-flow errors (clearly showing their cause).
 3. **Automatic quick-fixes** for the most common control-flow errors.
 
-The Analyzer is integrated into BPMN modeling tools like [bpmn.io](https://bpmn.io/) in our [demo](https://bpm-2024.whitefield-c9fed487.northeurope.azurecontainerapps.io/) to provide instant feedback during modeling.
+The Analyzer is integrated into BPMN modeling tools like [bpmn.io](https://bpmn.io/) in our [demo](https://timkraeuter.com/bpmn-analyzer-js/) to provide instant feedback during modeling.
 In the screenshot above, one can see control-flow errors highlighted in red and quick-fix suggestions in green.
 
 To understand control-flow errors, the analyzer can visualize the possible execution that led to the error.
