@@ -21,7 +21,7 @@ A demo version of the Analyzer is hosted [online](https://timkraeuter.com/bpmn-a
 The following is a screenshot of our demo version:
 
 <!-- 
-I could make a YouTube demonstration and add it here. For now, I will add a screenshot. BPM 
+I could make a YouTube demonstration and add it here. For now, I will add a screenshot.
 -->
 ![Modeling with the Rust BPMN Analyzer enabled](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/modeling.png)
 
@@ -31,7 +31,7 @@ The Analyzer has three _ambitious_ goals:
 2. **Understandability** of the found control-flow errors (clearly showing their cause).
 3. **Automatic quick-fixes** for the most common control-flow errors.
 
-The Analyzer is integrated into BPMN modeling tools like [bpmn.io](https://bpmn.io/) in our [demo](https://timkraeuter.com/bpmn-analyzer-js/) to provide instant feedback during modeling.
+The Analyzer can easily be integrated into BPMN modeling tools like [bpmn.io](https://bpmn.io/) as in our [demo](https://timkraeuter.com/bpmn-analyzer-js/) to provide instant feedback during modeling.
 In the screenshot above, one can see control-flow errors highlighted in red and quick-fix suggestions in green.
 
 To understand control-flow errors, the analyzer can visualize the possible execution that led to the error.
