@@ -23,7 +23,7 @@ The following is a screenshot of our demo version:
 <!-- 
 I could make a YouTube demonstration and add it here. For now, I will add a screenshot.
 -->
-![Modeling with the Rust BPMN Analyzer enabled](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/modeling.png)
+![Modeling with the BPMN Analyzer 2.0 enabled](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/modeling.png)
 
 The BPMN Analyzer 2.0 has three _ambitious_ goals:
 
