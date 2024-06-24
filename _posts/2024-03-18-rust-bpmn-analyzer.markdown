@@ -15,7 +15,7 @@ category: project
 author: timKraeuter
 externalLink: false
 ---
-The BPMN Analyzer 2.0 is a tool to analyze BPMN process models to find, display, and fix control-flow errors already during modeling.
+The **BPMN Analyzer 2.0** is a tool to analyze BPMN process models to find, display, and fix control-flow errors already during modeling.
 Unlike my previous [BPMN Analyzer](https://timkraeuter.com/bpmn-analyzer/), this tool is written in Rust and uses a pragmatic encoding of BPMN semantics for optimal performance regarding control-flow analysis.
 A demo version of the analyzer is hosted [online](https://timkraeuter.com/bpmn-analyzer-js/) and the source code is open-source ([front-end](https://github.com/timKraeuter/bpmn-analyzer-js), [back-end](https://github.com/timKraeuter/rust_bpmn_analyzer)).
 The following is a screenshot of our demo version:
