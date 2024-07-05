@@ -23,7 +23,7 @@ The following is a screenshot of our demo version:
 <!-- 
 I could make a YouTube demonstration and add it here. For now, I will add a screenshot.
 -->
-![Modeling with the BPMN Analyzer 2.0 enabled](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/modeling.png)
+[![Modeling with the BPMN Analyzer 2.0 enabled](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/modeling.png)](https://timkraeuter.com/bpmn-analyzer-js/)
 
 The BPMN Analyzer 2.0 has three _ambitious_ goals:
 
@@ -37,4 +37,4 @@ In the screenshot above, one can see control-flow errors highlighted in red and 
 To understand control-flow errors, the analyzer can visualize the possible execution that led to the error.
 The following screenshot shows how the analyzer visualizes the execution leading to a process getting stuck.
 
-![Error example in the BPMN Analyzer 2.0](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/counter-example.png)
+[![Error example in the BPMN Analyzer 2.0](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/rustBPMNAnalyzer/counter-example.png)](https://timkraeuter.com/bpmn-analyzer-js/)
