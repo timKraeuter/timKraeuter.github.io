@@ -68,10 +68,15 @@ I apply my software engineering skills on a daily basis to validate my research 
     <ul>
         <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access research paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
-    <li>The Visual Debugger: Past, Present, and Future. To appear in IDE workshop at the 46th International Conference on Software Engineering (ICSE 2024)</li>
+    <li>The Visual Debugger: Past, Present, and Future. In 1st Workshop on Integrated Development Environments (IDE 2024) co-located with the 46th International Conference on Software Engineering (ICSE 2024)</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2403.03683">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
+    </ul>
+    <li>BPMN Analyzer 2.0: Instantaneous, Comprehensible, and Fixable Control Flow Analysis for Realistic BPMN Models. To appear in Demonstrations & Resources Forum co-located with 22nd International Conference on Business Process Management (BPM 2024)</li>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/BPMN_Analyzer_2.0.pdf">Preprint (GitHub)</a></li>
+        <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
     </ul>
 <!-- Wait for minor revision
     <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science</li>
