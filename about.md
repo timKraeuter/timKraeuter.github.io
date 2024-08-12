@@ -78,12 +78,10 @@ I apply my software engineering skills on a daily basis to validate my research 
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/BPMN_Analyzer_2.0.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
     </ul>
-<!-- Wait for minor revision
     <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS_2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
     </ul>
--->
 </ol>
 
