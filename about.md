@@ -44,17 +44,17 @@ I apply my software engineering skills on a daily basis to validate my research 
 
 <h2>Publications</h2>
 <ol>
-	<li>Towards behavioral consistency in heterogeneous modeling scenarios. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)</li>
+	<li>Towards behavioral consistency in heterogeneous modeling scenarios. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C).</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2404.12941">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Towards_behavioral_consistency_in_heterogeneous_modeling_scenarios.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1109/MODELS-C53483.2021.00107">Research paper (DOI: 10.1109/MODELS-C53483.2021.00107)</a></li>
     </ul>
-	<li>The Visual Debugger Tool. In 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)</li>
+	<li>The Visual Debugger Tool. In 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME).</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2404.12932">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Tool.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1109/ICSME55016.2022.00066">Research paper (DOI: 10.1109/ICSME55016.2022.00066)</a></li>
     </ul>
-	<li>Formalization and analysis of BPMN using graph transformation systems. In 16th International Conference on Graph Transformation (ICGT 2023)</li>
+	<li>Formalization and analysis of BPMN using graph transformation systems. In 16th International Conference on Graph Transformation (ICGT 2023).</li>
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Formalization_and_analysis_of_BPMN_using_graph_transformation_systems.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/10.1007/978-3-031-36709-0_11">Research paper (DOI: 10.1007/978-3-031-36709-0_11)</a></li>
@@ -64,21 +64,21 @@ I apply my software engineering skills on a daily basis to validate my research 
     <ul>
         <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Open-access research paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
     </ul>
-    <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras. In 10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023)</li>
+    <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras. In 10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023).</li>
     <ul>
         <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access research paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
-    <li>The Visual Debugger: Past, Present, and Future. In 1st Workshop on Integrated Development Environments (IDE 2024) co-located with the 46th International Conference on Software Engineering (ICSE 2024)</li>
+    <li>The Visual Debugger: Past, Present, and Future. In 1st Workshop on Integrated Development Environments (IDE 2024) co-located with the 46th International Conference on Software Engineering (ICSE 2024).</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2403.03683">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
     </ul>
-    <li>BPMN Analyzer 2.0: Instantaneous, Comprehensible, and Fixable Control Flow Analysis for Realistic BPMN Models. To appear in Demonstrations & Resources Forum co-located with the 22nd International Conference on Business Process Management (BPM 2024)</li>
+    <li>BPMN Analyzer 2.0: Instantaneous, Comprehensible, and Fixable Control Flow Analysis for Realistic BPMN Models. To appear in Demonstrations & Resources Forum co-located with the 22nd International Conference on Business Process Management (BPM 2024).</li>
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/BPMN_Analyzer_2.0.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
     </ul>
-    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science</li>
+    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science.</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS_2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/TBD">Open-access research paper (DOI: TBD)</a></li>
