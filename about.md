@@ -62,10 +62,12 @@ I apply my software engineering skills on a daily basis to validate my research 
     </ul>
     <li>Behavioral consistency in multi-modeling. The Journal of Object Technology, 2023.</li>
     <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Behavioral_consistency_in_multi-modeling.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Open-access research paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
     </ul>
     <li>Structural Operational Semantics for Heterogeneously Typed Coalgebras. In 10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023).</li>
     <ul>
+        <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/SOS_Coalgebras.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/10.4230/LIPIcs.CALCO.2023.7">Open-access research paper (DOI: 10.4230/LIPIcs.CALCO.2023.7)</a></li>
     </ul>
     <li>The Visual Debugger: Past, Present, and Future. In 1st Workshop on Integrated Development Environments (IDE 2024) co-located with the 46th International Conference on Software Engineering (ICSE 2024).</li>
