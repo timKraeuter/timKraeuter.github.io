@@ -81,7 +81,7 @@ co-located with 22nd International Conference on Business Process Management (BP
         <li><a href="https://arxiv.org/abs/2408.06028">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/BPMN_Analyzer_2.0.pdf"> GitHub)</a></li>
         <li><a href="https://ceur-ws.org/Vol-3758/paper-11.pdf">Open-access research paper</a></li>
     </ul>
-    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. To appear in Logical Methods in Computer Science.</li>
+    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. Logical Methods in Computer Science 2024.</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS_2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.46298/lmcs-20(4:4)2024">Open-access research paper (DOI: 10.46298/LMCS-20(4:4)2024)</a></li>
