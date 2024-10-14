@@ -73,7 +73,7 @@ I apply my software engineering skills on a daily basis to validate my research 
     <li>The Visual Debugger: Past, Present, and Future. In 1st Workshop on Integrated Development Environments (IDE 2024) co-located with the 46th International Conference on Software Engineering (ICSE 2024).</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2403.03683">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/The_Visual_Debugger_Past_Present_and_Future.pdf"> GitHub)</a></li>
-        <li><a href="https://doi.org/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
+        <li><a href="https://dl.acm.org/doi/10.1145/3643796.3648443">Open-access research paper (DOI: 10.1145/3643796.3648443)</a></li>
     </ul>
     <li>BPMN Analyzer 2.0: Instantaneous, Comprehensible, and Fixable Control Flow Analysis for Realistic BPMN Models. Proceedings of the Best Dissertation Award, Doctoral Consortium, and Demonstration & Resources Forum at BPM 2024
 co-located with 22nd International Conference on Business Process Management (BPM 2024).</li>
