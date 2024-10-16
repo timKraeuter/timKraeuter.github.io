@@ -60,7 +60,7 @@ I apply my software engineering skills on a daily basis to validate my research 
         <li><a href="https://doi.org/10.1007/978-3-031-36709-0_11">Research paper (DOI: 10.1007/978-3-031-36709-0_11)</a></li>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/BestPaperICGT2023.pdf"><b>&#9733; Best Paper Award &#9733;</b></a></li>    
     </ul>
-    <li>Behavioral consistency in multi-modeling. The Journal of Object Technology, 2023.</li>
+    <li>Behavioral consistency in multi-modeling. The Journal of Object Technology, Vol. 22, Issue 2, 2023.</li>
     <ul>
         <li><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/Behavioral_consistency_in_multi-modeling.pdf">Preprint (GitHub)</a></li>
         <li><a href="https://doi.org/10.5381/jot.2023.22.2.a9">Open-access research paper (DOI: 10.5381/jot.2023.22.2.a9)</a></li>
@@ -81,7 +81,7 @@ co-located with 22nd International Conference on Business Process Management (BP
         <li><a href="https://arxiv.org/abs/2408.06028">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/BPMN_Analyzer_2.0.pdf"> GitHub)</a></li>
         <li><a href="https://ceur-ws.org/Vol-3758/paper-11.pdf">Open-access research paper</a></li>
     </ul>
-    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. Logical Methods in Computer Science 2024.</li>
+    <li>A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems. Logical Methods in Computer Science, Vol. 20, Issue 4, 2024.</li>
     <ul>
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS_2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.46298/lmcs-20(4:4)2024">Open-access research paper (DOI: 10.46298/LMCS-20(4:4)2024)</a></li>
