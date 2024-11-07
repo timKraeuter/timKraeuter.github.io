@@ -6,14 +6,14 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{
 site.picture }}{% endif %})
 
-<p>I am a software engineer and Ph.D. candidate located in Norway.</p>
+<p>I am currently working as a Software Engineer II at Microsoft in Oslo, Norway and wrapping up my PhD.</p>
 
 <h2>Software engineering</h2>
 
-I apply my software engineering skills on a daily basis to validate my research ideas. Previously, I worked full-time as a software engineer in Hannover, Germany. Among other things, I have acquired knowledge about the following:
+In my software engineering career and working as a PhD candidate I have acquired knowledge about the following:
 
 <ul class="skill-list">
-	<li>Java (Spring, Gradle, Maven)</li>
+	<li>Java (Spring, Gradle, Maven), C#</li>
 	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
 	<li>Rust (axum, tokio)</li>
 	<li>Version Control (Git, SVN)</li>
