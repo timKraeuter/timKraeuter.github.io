@@ -13,7 +13,8 @@ site.picture }}{% endif %})
 In my software engineering career and working as a PhD candidate I have acquired knowledge about the following:
 
 <ul class="skill-list">
-	<li>Java (Spring, Gradle, Maven), C#</li>
+	<li>C#</li>
+	<li>Java (Spring, Gradle)</li>
 	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
 	<li>Rust (axum, tokio)</li>
 	<li>Version Control (Git, SVN)</li>
