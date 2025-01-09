@@ -6,8 +6,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{
 site.picture }}{% endif %})
 
-<p>I am currently working as a Software Engineer II at Microsoft in Oslo, <img class="emoji" title=":norway:" alt=":norway:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png" style="width: 20px; display: inline; vertical-align: middle;"> and wrapping up my PhD.
-Before I studied and worked in Hannover, <img class="emoji" title=":de:" alt=":de:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" style="width: 20px; display: inline; vertical-align: middle;">.</p>
+<p>I am currently working as a Software Engineer II at <img src="https://timkraeuter.com/assets/images/microsoft.svg" alt="Microsoft Logo" style="width: 14px; vertical-align: middle;"> Microsoft in Oslo, <img class="emoji" title=":norway:" alt="Norwegian Flag" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png" style="width: 20px; display: inline; vertical-align: middle;"> and wrapping up my PhD.
+Before I studied and worked in Hannover, <img class="emoji" title=":de:" alt="German Flag" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" style="width: 20px; display: inline; vertical-align: middle;">.</p>
 
 <h2>Software engineering</h2>
 
