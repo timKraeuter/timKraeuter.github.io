@@ -6,7 +6,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{
 site.picture }}{% endif %})
 
-<p>I am currently working as a Software Engineer II at Microsoft in Oslo, Norway and wrapping up my PhD.</p>
+<p>I am currently working as a Software Engineer II at Microsoft in Oslo, :norway: and wrapping up my PhD.
+Before I studied and worked in Hannover, :de:.</p>
 
 <h2>Software engineering</h2>
 
