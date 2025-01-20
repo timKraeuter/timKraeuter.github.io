@@ -19,7 +19,7 @@ externalLink: false
 The Business Process Modeling Notation (BPMN) is a widely used standard notation for defining intra- and inter-organizational workflows.
 It is used heavily for process automation and orchestration in [many businesses](https://camunda.com/about/customers/).
 Formalizing BPMN reduces the cost of business process automation by facilitating the detection of errors and optimization potentials in process models already during design time before the implementation starts.
-The [BPMN Analyzer](https://bpmnanalyzer.whitefield-c9fed487.northeurope.azurecontainerapps.io/) is an [open-source](https://github.com/timKraeuter/Rewrite_Rule_Generation) tool to analyze BPMN process models formally.
+The [BPMN Analyzer](https://bpmn-analyzer.wittyrock-9d6a3c00.northeurope.azurecontainerapps.io) is an [open-source](https://github.com/timKraeuter/Rewrite_Rule_Generation) tool to analyze BPMN process models formally.
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxXbNUl6IjE" title="BPMN Analyzer Tool Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
