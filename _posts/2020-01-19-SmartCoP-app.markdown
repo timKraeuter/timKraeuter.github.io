@@ -46,6 +46,7 @@ I am not competing in gymnastics at the moment and the app is not up to date any
 If anyone wants to pick up the development of the app feel free to reach out to me.
 
 The following graph shows the active installs of the app from 2020-2025, when the app was unpublished.
+The app peaked at 148 concurrent installations as shown in the graph.
 I only marketed the app once which resulted in an [article](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/LEON_article.pdf) in the german gymnastics magazin Leon.
 
 ![History of the install base across the last 5 years.](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/installs.png)
