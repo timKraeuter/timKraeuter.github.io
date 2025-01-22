@@ -38,15 +38,16 @@ Have a look at my tutorial page in [english](https://timkraeuter.github.io/Smart
 
 ---
 
-**Check it out below if you are curious!**
+After 5 years and over 500+ downloads, I have unpublished the app.
+
+![Overview of the App showing downloads](./https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/installs.png)
+
+I am not competing in gymnastics at the moment and the app is not up to date anymore (since 2025) due to the new regulations.
+If anyone wants to pick up the development of the app feel free to reach out to me.
+
+The following graph shows the active installs of the app from 2020-2025, when the app was unpublished.
+I only marketed the app once which resulted in an [article](./https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/LEON_article.pdf) in the german gymnastics magazin Leon.
+
+![History of the install base across the last 5 years.](./https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/playStore.png)
 
 ---
-
-<div style="display:flex;width:100%;align-items:center;margin-top:-18%;margin-bottom:-18%;">
-    <div style="flex:49.99%;padding:5px">
-    <a href='https://play.google.com/store/apps/details?id=de.tk.autoD&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/g-play.svg'/></a>
-    </div>
-    <div style="flex:49.99%;padding:5px">
-    <a href='https://smartcoppwa.web.app'><img alt='Launch as Web App' src='https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/PWA-dark-en.svg'/></a>
-    </div>
-</div>
