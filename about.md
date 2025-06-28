@@ -95,5 +95,10 @@ co-located with 22nd International Conference on Business Process Management (BP
         <li><a href="https://arxiv.org/abs/2311.05243">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/LMCS_2024.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/10.46298/lmcs-20(4:4)2024">Open-access research paper (DOI: 10.46298/LMCS-20(4:4)2024)</a></li>
     </ul>
+    <li>Towards the Coordination and Verification of Heterogeneous Systems with Data and Time. To appear in the ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS).</li>
+    <ul>
+        <li><a href="https://arxiv.org/">TBD Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/placeholder.pdf"> GitHub)</a></li>
+        <li><a href="https://doi.org/">Research paper (DOI: TBD)</a></li>
+    </ul>
 </ol>
 
