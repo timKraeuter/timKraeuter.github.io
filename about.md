@@ -97,7 +97,7 @@ co-located with 22nd International Conference on Business Process Management (BP
     </ul>
     <li>Towards the Coordination and Verification of Heterogeneous Systems with Data and Time. To appear in the ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025).</li>
     <ul>
-        <li><a href="http://arxiv.org/abs/2508.12325">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/MODELS_2025.pdf"> GitHub)</a></li>
+        <li><a href="https://arxiv.org/abs/2508.12325">Preprint (arXiv /</a><a href="https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/publications/MODELS_2025.pdf"> GitHub)</a></li>
         <li><a href="https://doi.org/">Research paper (DOI: TBD)</a></li>
     </ul>
     <li>Coordination and Verification of Heterogeneous Behavioral Systems (PhD Thesis, 2025)</li>
