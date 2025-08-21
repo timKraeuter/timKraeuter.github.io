@@ -1,6 +1,6 @@
 # main text of home
 name: Tim Kräuter
-bio: I'm a Software Engineer II at Microsoft in Oslo, :norway:.
+bio: I'm a Senior Software Engineer at Microsoft in Oslo, :norway:.
 
 # twitter summary info
 description: The homepage of a german software engineer, who lives in Norway.
@@ -43,7 +43,7 @@ email: developer@timkraeuter.com
 authors:
     timKraeuter:
         name: Tim Kräuter
-        bio: I'm a software engineer and Ph.D. candidate in Norway.
+        bio: I'm a Senior Software Engineer at Microsoft and Ph.D. candidate in Norway.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe

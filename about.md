@@ -7,7 +7,7 @@ layout: page
 site.picture }}{% endif %})
 
 <p>
-  I am currently working as a Software Engineer II at 
+  I am currently working as a Senior Software Engineer at 
   <img src="https://timkraeuter.com/assets/images/microsoft.svg" alt="Microsoft Logo" style="width: 16px; display: inline; vertical-align: middle; position: relative; top: -2px;"> 
   Microsoft in Oslo, 
   <img alt="Norwegian Flag" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png" style="width: 20px; display: inline; vertical-align: middle; position: relative; top: -2px;"> 
