@@ -11,10 +11,9 @@ site.picture }}{% endif %})
   <img src="https://timkraeuter.com/assets/images/microsoft.svg" alt="Microsoft Logo" style="width: 16px; display: inline; vertical-align: middle; position: relative; top: -2px;"> 
   Microsoft in Oslo, 
   <img alt="Norwegian Flag" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png" style="width: 20px; display: inline; vertical-align: middle; position: relative; top: -2px;"> 
-  and completed my PhD at HVL. Before I studied and worked in Hannover, 
+  and completed my PhD at <a href="https://www.hvl.no/">Wester Norway University of Applied Sciences</a>. Before I studied and worked in Hannover, 
   <img alt="German Flag" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" style="width: 20px; display: inline; vertical-align: middle; position: relative; top: -2px;">.
 </p>
-
 
 <h2>Software engineering</h2>
 
