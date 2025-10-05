@@ -17,10 +17,10 @@ site.picture }}{% endif %})
 
 <h2>Software engineering</h2>
 
-In my software engineering career and working as a PhD candidate I have acquired knowledge about the following:
+In my software engineering career and aquiring a PhD I have acquired knowledge about the following:
 
 <ul class="skill-list">
-	<li>C#</li>
+	<li>C#, .Net, Powershell</li>
 	<li>Java (Spring, Gradle)</li>
 	<li>Typescript & Javascript (Angular, bpmn-js, Ionic, HTML, CSS)</li>
 	<li>Rust (axum, tokio)</li>
