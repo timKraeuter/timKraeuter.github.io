@@ -107,6 +107,7 @@ compress_html:
 exclude:
   [
     "README.md",
+    "AGENTS.md",
     "Gemfile",
     "Gemfile.lock",
     "FAQ.md",
