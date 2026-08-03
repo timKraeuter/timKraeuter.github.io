@@ -1,0 +1,23 @@
+version: 2
+updates:
+  # Keep GitHub Actions used in any workflows up to date
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+  # Ruby gems for the Jekyll site (Gemfile)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+  # Docker image used for local development (docker-compose.yml)
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
