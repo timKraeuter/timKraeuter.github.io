@@ -52,3 +52,9 @@ I only marketed the app once which resulted in an [article](https://raw.githubus
 ![History of the install base across the last 5 years.](https://raw.githubusercontent.com/timKraeuter/timKraeuter.github.io/master/assets/images/smartCoP/installs.png)
 
 ---
+
+I created a new simple website working both for mobile and desktop which allows calculations for the men's artistic gymnastics 2025-2028. The app includes the new regulations, all the things the app could and connection bonuses, as well as updated export templates.
+
+Check it out at:
+
+[https://timkraeuter.com/Code-Of-Points/](https://timkraeuter.com/Code-Of-Points/)
