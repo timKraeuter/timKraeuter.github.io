@@ -15,7 +15,7 @@ author: timKraeuter
 externalLink: false
 ---
 
-This website is the successor of my previous app Smart cop that I pulled from the Android store.
+This website is the successor of my previous app [SmartCoP](https://timkraeuter.com/SmartCoP-app/) that I pulled from the Android store.
 
 It calculates the difficulty of a men's artistic gymnastics routine based on the performed elements.
 
