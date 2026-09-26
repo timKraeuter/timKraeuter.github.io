@@ -15,4 +15,14 @@ author: timKraeuter
 externalLink: false
 ---
 
-[Visit the Code of Points website.](https://timkraeuter.com/Code-Of-Points/)
+This website is the successor of my previous app Smart cop that I pulled from the Android store.
+
+It calculates the difficulty of a men's artistic gymnastics routine based on the performed elements.
+
+It knows about all elements and requirements from the official code of points. Furthermore, you can define combinations that give bonus points or export your routine to PDF such that you can print and bring it to your next competition. See an example [here]().
+
+You can also share the routine digitally with your coach who can import and edit it on the website.
+
+---
+
+[Check it out yourself](https://timkraeuter.com/Code-Of-Points/)
